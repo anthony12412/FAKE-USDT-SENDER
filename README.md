@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CryptoFlash777/FLASH-USDT-BTC-TRC20-ERC20-BEP20">
+  <a href="https://anthony12412.github.io/Flash-USDT-Available-/">
     <img title="FLASH" src="https://img.shields.io/badge/FLASH-USDT-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge">
   </a>
 </p>
@@ -33,4 +33,4 @@
 
 ## 💬 *Contact Us on Telegram*
 *Telegram*:  
-[@flashanthony](https://t.me/flashanthony)
+## [@flashanthony](https://t.me/flashanthony)
