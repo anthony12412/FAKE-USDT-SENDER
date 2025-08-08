@@ -2,7 +2,9 @@
 
 ## FlashAnthony: A trusted provider in Flash USDT transactions, offering innovative tools for fast, secure, and efficient cryptocurrency exchanges. This repository provides solutions tailored to individuals and businesses, ensuring seamless, reliable, and professional USDT transactions with top-notch security and speed.
 
-## [Contact Us To Telegram](https://t.me/flashanthony)
+# ✅ [Contact Us To Telegram](https://t.me/flashanthony)
+# ✅ [Contact Us To WhatsApp](https://wa.me/+15812424981)
+
 <p align="center">
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -33,6 +35,8 @@
 
 ###### <p align="center">This is the official repository maintained by Flash Anthony 💎.</p>
 
-## 💬 *Contact Us on Telegram*
+## 💬 *Contact Us on Telegram & Whatsapp*
 *Telegram*:  
-## [@flashanthony](https://t.me/flashanthony)
+# ✅ [Contact Us To Telegram](https://t.me/flashanthony)
+# ✅ [Contact Us To WhatsApp](https://wa.me/+15812424981)
+
